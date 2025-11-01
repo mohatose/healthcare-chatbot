@@ -1,7 +1,8 @@
 flask==2.3.3
 flask-cors==4.0.0
 transformers==4.35.2
-torch==2.1.1
+torch==2.5.0
 deep-translator==1.11.4
 accelerate==0.24.1
 protobuf==3.20.3
+gunicorn==21.2.0
