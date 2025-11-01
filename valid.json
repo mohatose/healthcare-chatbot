@@ -1,0 +1,18 @@
+[
+  {
+    "context": "HIV stands for Human Immunodeficiency Virus. It attacks the immune system and can lead to AIDS if untreated. Managed with antiretroviral therapy (ART).",
+    "question": "Explain HIV",
+    "answers": {
+      "text": ["HIV stands for Human Immunodeficiency Virus. It attacks the immune system and can lead to AIDS if untreated."],
+      "answer_start": [0]
+    }
+  },
+  {
+    "context": "Morning-after pills are emergency contraceptive pills taken within 72 hours after unprotected sex to prevent pregnancy. They do not protect against sexually transmitted infections.",
+    "question": "Emergency contraception pills",
+    "answers": {
+      "text": ["Morning-after pills are emergency contraceptive pills taken within 72 hours after unprotected sex to prevent pregnancy."],
+      "answer_start": [0]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "context": "HIV stands for Human Immunodeficiency Virus. It attacks the immune system and can lead to AIDS if untreated. Managed with antiretroviral therapy (ART).",
+    "question": "What is HIV?",
+    "answers": {
+      "text": ["HIV stands for Human Immunodeficiency Virus. It attacks the immune system and can lead to AIDS if untreated."],
+      "answer_start": [0]
+    }
+  },
+  {
+    "context": "Tuberculosis (TB) is a contagious infection that mainly affects the lungs. It spreads through the air and can be cured with proper antibiotics.",
+    "question": "What is TB?",
+    "answers": {
+      "text": ["Tuberculosis (TB) is a contagious infection that mainly affects the lungs."],
+      "answer_start": [0]
+    }
+  },
+  {
+    "context": "Malaria is caused by parasites transmitted through mosquito bites. Prevention includes using mosquito nets, repellents, and prompt treatment with antimalarial drugs.",
+    "question": "What is malaria?",
+    "answers": {
+      "text": ["Malaria is caused by parasites transmitted through mosquito bites."],
+      "answer_start": [0]
+    }
+  },
+  {
+    "context": "Morning-after pills are emergency contraceptive pills taken within 72 hours after unprotected sex to prevent pregnancy. They do not protect against sexually transmitted infections.",
+    "question": "What are morning-after pills?",
+    "answers": {
+      "text": ["Morning-after pills are emergency contraceptive pills taken within 72 hours after unprotected sex to prevent pregnancy."],
+      "answer_start": [0]
+    }
+  },
+  {
+    "context": "HIV is treated with antiretroviral therapy (ART) which helps control the virus and prevent progression to AIDS.",
+    "question": "How is HIV treated?",
+    "answers": {
+      "text": ["HIV is treated with antiretroviral therapy (ART)."],
+      "answer_start": [0]
+    }
+  }
+]

@@ -1,0 +1,163 @@
+/* ---------- General Reset ---------- */
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Arial, sans-serif; }
+html, body { height: 100%; }
+
+/* ---------- App Layout ---------- */
+.app-container {
+  display: flex;
+  height: 100vh;
+  background-color: #343541;
+  color: #ececf1;
+}
+
+/* ---------- Sidebar ---------- */
+.sidebar {
+  width: 260px;
+  background-color: #202123;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  border-right: 1px solid #2f2f33;
+}
+
+.sidebar-header {
+  text-align: center;
+}
+.sidebar-header h2 { color: #10a37f; font-size: 1.3rem; margin-bottom: 0.3rem; }
+.sidebar-header .profile-name {
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+.chat-history {
+  flex-grow: 1;
+  margin-top: 1rem;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+
+
+.sidebar-footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #aaa;
+}
+
+.sidebar-footer button {
+  background-color: #10a37f;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-footer button:hover {
+  background-color: #0e8c6e;
+}
+
+/* ---------- Chat Main Area ---------- */
+
+
+.chat-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.chat-header h1 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.chat-header small {
+  color: #10a37f;
+}
+
+.subtitle {
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+/* ---------- Chatbox ---------- */
+
+
+.message {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.bot {
+  justify-content: flex-start;
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+  line-height: 1.4;
+}
+
+.user .bubble {
+  background-color: #10a37f;
+  color: white;
+  border-bottom-right-radius: 2px;
+}
+
+.bot .bubble {
+  background-color: #2f2f33;
+  color: #eee;
+  border-bottom-left-radius: 2px;
+}
+
+/* ---------- Controls ---------- */
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #40414f;
+  padding: 0.7rem;
+  border-radius: 10px;
+}
+
+#langSelect, #userInput, #sendBtn {
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  padding: 0.6rem;
+}
+
+#langSelect {
+  background-color: #2f2f33;
+  color: #fff;
+}
+
+#userInput {
+  flex-grow: 1;
+  background-color: #2f2f33;
+  color: #fff;
+}
+
+#sendBtn {
+  background-color: #10a37f;
+  color: #fff;
+  cursor: pointer;
+}
+
+#sendBtn:hover {
+  background-color: #0e8c6e;
+}
+
+/* ---------- Footer ---------- */
+.chat-footer {
+  text-align: center;
+  color: #aaa;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+}

@@ -1,0 +1,42 @@
+{
+  "panado": {
+    "tags": ["panado", "paracetamol", "pain relief", "fever medicine", "pain killer"],
+    "en": "Panado (Paracetamol) is used for pain relief and fever reduction. Dosage: Adults: 500-1000mg every 4-6 hours, maximum 4000mg daily. Children: Based on weight (10-15mg/kg per dose). Do not exceed recommended dose. Avoid alcohol. Seek medical help if pain persists beyond 3 days or fever beyond 2 days.",
+    "st": "Panado (Paracetamol) e sebelisetsoa ho bebofalla bohloko le ho fokotsa feberu. Sekhahla: Batho ba baholo: 500-1000mg ka hora e 'ngoe le e 'ngoe ea 4-6, sephatlo sa 4000mg letsatsi. Bana: Ho ipapisitsoe le boima (10-15mg/kg tekong e 'ngoe le e 'ngoe). Se ke oa feta sekhahla se khothaletsoang. Qoba ho noa senomoro. Batla thuso ea bophelo haeba bohloko bo tswelela ho feta matsatsi a 3 kapa feberu ho feta matsatsi a 2."
+  },
+  "postinor": {
+    "tags": ["postinor", "morning after pill", "emergency contraception", "plan b"],
+    "en": "Postinor (Levonorgestrel) is emergency contraception taken within 72 hours (up to 120 hours) after unprotected sex to prevent pregnancy. Dosage: One 1.5mg tablet as soon as possible. Effectiveness decreases with time. Not for regular contraception. May cause nausea, headache, menstrual changes. Does not protect against HIV/STIs.",
+    "st": "Postinor (Levonorgestrel) ke thibelo ea khatello e nkuoang ka hare ho lihora tse 72 (ho fihlela lihora tse 120) kamora thobalano e sa sireletsehang ho thibela boimana. Sekhahla: Pepene e le 'ngoe ea 1.5mg hang ha ho ka khoneha. Tšebelano e fokotseha ka nako. Ha e sebelisoe e le thibelo ea kamehla. E ka baka ho hema, hlooho e bohloko, liphetoho tsa kameho. Ha e sireletse khahlanong le HIV/li-STI."
+  },
+  "ors": {
+    "tags": ["ors", "oral rehydration solution", "diarrhea treatment", "rehydration salts"],
+    "en": "ORS (Oral Rehydration Solution) treats and prevents dehydration from diarrhea. Preparation: Mix one sachet with 1 liter of clean water. Dosage: After each loose stool: Children under 2: 50-100ml, Children 2-10: 100-200ml, Older children/adults: As much as wanted. Continue breastfeeding/feeding. Use within 24 hours if stored at room temperature.",
+    "st": "ORS (Oral Rehydration Solution) e phekola le ho thibela dehydration e tsoang ho diarrhea. Phethiso: Hlanganisa sachet e le 'ngoe le litara e le 'ngoe ea metsi a hloekileng. Sekhahla: Kamora ho nyelloa ha ho nyelloe: Bana ba ka tlase ho 2: 50-100ml, Bana ba 2-10: 100-200ml, Bana ba baholo/batho ba baholo: Haholo-holo joaloka ha ba batla. Tswelela ho anyesa/ho fepa. Sebelisa ka hare ho lihora tse 24 haeba e bolokiloe mocheong oa ntlo."
+  },
+  "iron_supplements": {
+    "tags": ["iron supplements", "iron tablets", "anemia treatment", "iron medicine"],
+    "en": "Iron supplements treat and prevent iron deficiency anemia. Common forms: Ferrous sulfate, ferrous fumarate. Dosage: As prescribed, usually 60-120mg elemental iron daily. Take with vitamin C (orange juice) for better absorption. Avoid with tea/coffee/milk. Side effects: Dark stools, constipation, stomach upset. Take between meals if tolerated.",
+    "st": "Li-iron supplements li phekola le ho thibela anemia ea tlhokego ea tšepe. Mehato e tloaelehileng: Ferrous sulfate, ferrous fumarate. Sekhahla: Joaloka ha ho laetsoe, hangata 60-120mg ea tšepe ea elemental letsatsi. Nka le vitamin C (juse ea lamunu) bakeng sa ho nka hantle. Qoba le tee/kofi/mahe. Litlamorao: Letlalo le leso, ho se nyelle, ho sitisoa ha moelopele. Nka lipakeng tsa lijo ha ho amoheloa."
+  },
+  "arv_examples": {
+    "tags": ["arv examples", "hiv drugs list", "antiretroviral examples", "art medications"],
+    "en": "Common ARV medications: Tenofovir (TDF), Lamivudine (3TC), Dolutegravir (DTG), Efavirenz (EFV), Nevirapine (NVP), Zidovudine (AZT), Lopinavir/Ritonavir (LPV/r), Atazanavir (ATV), Raltegravir (RAL). ARVs are always used in combination (usually 3 drugs) as prescribed by healthcare provider. Never skip doses.",
+    "st": "Meriana e tloaelehileng ea ARV: Tenofovir (TDF), Lamivudine (3TC), Dolutegravir (DTG), Efavirenz (EFV), Nevirapine (NVP), Zidovudine (AZT), Lopinavir/Ritonavir (LPV/r), Atazanavir (ATV), Raltegravir (RAL). Li-ARV li sebelisoa ka mekhoa e mengata (hangata meriana e 3) joaloka ha ho laetsoe ke mofani oa bophelo. Le ka mohla u se ke oa lebala litekelo."
+  },
+  "act": {
+    "tags": ["act", "malaria treatment", "artemisinin", "malaria drugs"],
+    "en": "ACT (Artemisinin-based Combination Therapy) is the recommended treatment for uncomplicated malaria. Common ACTs: Artemether-Lumefantrine, Artesunate-Amodiaquine. Dosage: Based on weight, taken over 3 days. Complete full course even if feeling better. For severe malaria, seek injectable treatment at healthcare facility.",
+    "st": "ACT (Kalafo e Thehiloe ho Artemisinin) ke kalafo e khothaletsoang bakeng sa malaria e se nang bothata. Li-ACT tse tloaelehileng: Artemether-Lumefantrine, Artesunate-Amodiaquine. Sekhahla: Ho ipapisitsoe le boima, e nkuoang ka matsatsi a 3. Qeta thupello e feletseng le ha u utloa u le hantle. Bakeng sa malaria e matla, batlang kalafo ea ho thethefatsa setsing sa bophelo."
+  },
+  "zinc": {
+    "tags": ["zinc", "diarrhea treatment", "zinc tablets", "child diarrhea"],
+    "en": "Zinc supplements are used with ORS for diarrhea treatment in children. Dosage: 10-20mg daily for 10-14 days. Benefits: Reduces diarrhea duration and severity, prevents future episodes. Available as dispersible tablets. Continue feeding during treatment. Part of standard diarrhea management protocol.",
+    "st": "Li-zinc supplements li sebelisoa le ORS bakeng sa kalafo ea diarrhea ho bana. Sekhahla: 10-20mg letsatsi matsatsi a 10-14. Melemo: E fokotsa nako le matla a diarrhea, e thibela liketsahalo tse tlang. E fumaneha e le lipepene tse arohanang. Tswelela ho fepa nakong ea kalafo. Karolo ea protocol e tloaelehileng ea taolo ea diarrhea."
+  },
+  "vitamin_a": {
+    "tags": ["vitamin a", "child health", "immunity", "vitamin supplements"],
+    "en": "Vitamin A supplements boost immunity and prevent deficiency. Given to children 6-59 months: 100,000 IU at 6-11 months, 200,000 IU every 6 months at 12-59 months. Also given postpartum to mothers. Benefits: Reduces child mortality, prevents blindness, supports growth. Part of routine child health services.",
+    "st": "Li-vitamin A supplements li matlafatsa tshireletso le ho thibela tlhokego. E fanuoeng ho bana ba likhoeli tse 6-59: 100,000 IU ka likhoeli tse 6-11, 200,000 IU khoeli e 'ngoe le e 'ngoe ea 6 ka likhoeli tse 12-59. E boetse e fanuoeng kamora ho tsoala ho bo-‘m’e. Melemo: E fokotsa lefu la bana, e thibela bofofu, e tšehetsa kholo. Karolo ea litšebeletso tsa bophelo ba bana tse tloaelehileng."
+  }
+}

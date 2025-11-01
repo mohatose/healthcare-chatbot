@@ -1,0 +1,72 @@
+{
+  "hiv": {
+    "tags": ["hiv", "aids", "hiv virus", "what is hiv", "hiv definition"],
+    "en": "HIV (Human Immunodeficiency Virus) is a virus that attacks the body's immune system, specifically CD4 cells. Without treatment, HIV can lead to AIDS (Acquired Immunodeficiency Syndrome), where the immune system becomes too weak to fight infections.",
+    "st": "HIV (Virus ea Ho Fokotsa Sesole sa 'Mele) ke vaerase e hlaselang sesole sa 'mele, haholo-holo lisele tsa CD4. Ntle le kalafo, HIV e ka baka AIDS (Boemo ba Ho Fokotseha ha Sesole sa 'Mele), moo sesole sa 'mele se fokolang haholo ho loana le ditshoaetso."
+  },
+  "art": {
+    "tags": ["art", "antiretroviral therapy", "hiv treatment", "arv", "antiretroviral"],
+    "en": "ART (Antiretroviral Therapy) is the daily medication taken by people living with HIV to suppress the virus, maintain immune function, and prevent disease progression. Common ARVs include Tenofovir, Lamivudine, Dolutegravir, and Efavirenz.",
+    "st": "ART (Kalafo ea Antiretroviral) ke meriana ea letsatsi le letsatsi e nkuoang ke batho ba phelang le HIV ho thibela vaerase, ho boloka tshebetso ea sesole sa 'mele, le ho thibela nts'etsopele ea lefu. Li-ARV tse tloaelehileng li kenyelletsa Tenofovir, Lamivudine, Dolutegravir, le Efavirenz."
+  },
+  "morning_after_pill": {
+    "tags": ["morning after pill", "postinor", "plan b", "emergency contraception", "emergency pill"],
+    "en": "The morning-after pill (emergency contraception) is medication taken within 72-120 hours after unprotected sex to prevent pregnancy. It works by delaying ovulation or preventing fertilization. It does not terminate existing pregnancy and should not be used as regular contraception.",
+    "st": "Pilisi ea morao-ao (thibelo ea khatello) ke meriana e nkuoang ka hare ho lihora tse 72-120 kamora thobalano e sa sireletsehang ho thibela boimana. E sebetsa ka ho liehisa ovulation kapa ho thibela ho beha mahe. Ha e khaotse boimana bo se bo teng mme ha e lokela ho sebelisoa e le thibelo ea kamehla."
+  },
+  "contraception": {
+    "tags": ["contraception", "birth control", "family planning", "prevent pregnancy"],
+    "en": "Contraception refers to methods or devices used to prevent pregnancy. Types include: barrier methods (condoms), hormonal methods (pills, injections, implants), intrauterine devices (IUDs), and permanent methods (sterilization). Different methods have varying effectiveness and duration.",
+    "st": "Thibelo ea boimana e bolela mekhoa kapa lisebelisoa tse sebelisetsoang ho thibela boimana. Mehato e kenyelletsa: mekhoa ea ho sitisa (likondomu), mekhoa ea hormonal (lipilisi, linthethefatsi, li-implants), lisebelisoa tsa intrauterine (li-IUD), le mekhoa ea khafeloa (ho se tsoele). Mekhoa e fapaney e na le tšebelano e fapaney le nako."
+  },
+  "antenatal": {
+    "tags": ["antenatal", "prenatal", "pregnancy care", "pregnancy checkups"],
+    "en": "Antenatal care refers to the healthcare provided to pregnant women from conception until delivery. It includes regular checkups, screening tests, immunizations, nutritional advice, and preparation for childbirth to ensure the health of both mother and baby.",
+    "st": "Tlhokomelo ea pele ho tsoala e bolela tlhokomelo ea bophelo e fanuoeng ho basali ba imeleng ho tloha ho imeleng ho fihlela ho tsoala. E kenyelletsa diteko tse tloaelehileng, diteko tsa ho shebella, li-ente, likeletso tsa phepo, le ho itokisetsa ho tsoala ho netefatsa bophelo ba 'mè le lesea."
+  },
+  "preeclampsia": {
+    "tags": ["preeclampsia", "pregnancy high blood pressure", "pregnancy complication"],
+    "en": "Preeclampsia is a serious pregnancy complication characterized by high blood pressure and protein in the urine after 20 weeks of pregnancy. It can affect the mother's organs and restrict fetal growth. Symptoms include severe headache, vision changes, and upper abdominal pain. Requires immediate medical attention.",
+    "st": "Preeclampsia ke bothata bo boholo ba boimana bo bontšoang ke khatello e phahameng ya mali le protheine morotong kamora likweek tse 20 tsa boimana. E ka ama li-organ tsa 'mè le ho sitisa kholo ea lesea. Matšoao a kenyelletsa hlooho e boholo, phetoho ea pono, le bohloko ba moelopele oa holimo. E hloka tlhokomelo ea bophelo hang-hang."
+  },
+  "anemia": {
+    "tags": ["anemia", "iron deficiency", "low hemoglobin", "low blood"],
+    "en": "Anemia is a condition where the blood doesn't have enough healthy red blood cells or hemoglobin to carry adequate oxygen to body tissues. Common causes include iron deficiency, blood loss, and certain diseases. Symptoms include fatigue, weakness, pale skin, and shortness of breath.",
+    "st": "Anemia ke boemo boo maleng a sa nang le lisele tse lekaneng tse phelang tsa mali kapa hemoglobin ho jara okisijene e lekaneng ho li-tissue tsa 'mele. Mabaka a tloaelehileng a kenyelletsa tlhokego ea tšepe, tahlehelo ea mali, le malwetse a itseng. Matšoao a kenyelletsa mokhathala, bofutsana, letlalo le lesweu, le ho hema ha thata."
+  },
+  "nutrition": {
+    "tags": ["nutrition", "diet", "food", "vitamins", "healthy eating"],
+    "en": "Nutrition is the process of obtaining and consuming food necessary for health, growth, and energy. A balanced diet includes carbohydrates, proteins, fats, vitamins, minerals, and water in proper proportions to maintain bodily functions and prevent disease.",
+    "st": "Phepo ke tshebetso ea ho fumana le ho ja dijo tse hlokahalang bakeng sa bophelo bo botle, kholo, le matla. Phepo e lekanang e kenyelletsa likharbohydrate, liprotheine, mafura, li-vitamine, diminerale, le metsi ka liphapang tse nepahetseng ho boloka mesebetsi ea 'mele le ho thibela malwetse."
+  },
+  "hygiene": {
+    "tags": ["hygiene", "handwashing", "cleanliness", "personal hygiene", "germ prevention"],
+    "en": "Hygiene refers to practices that help maintain health and prevent the spread of diseases. This includes personal hygiene (bathing, handwashing, oral care) and environmental hygiene (clean water, proper sanitation, food safety). Good hygiene is crucial for preventing infections.",
+    "st": "Bohloeki bo bolela mekhoa e thusang ho boloka bophelo bo botle le ho thibela phatlalatso ea malwetse. Sena se kenyelletsa bohloeki ba motho ka mong (ho tlhatsoa, ho hlatsoa matsoho, tlhokomelo ea meno) le bohloeki ba tikoloho (metsi a hloekileng, ts'ireletso e nepahetseng, polokeho ea dijo). Bohloeki bo botle bo bohlokoa bakeng sa ho thibela ditshoaetso."
+  },
+  "tb": {
+    "tags": ["tb", "tuberculosis", "chronic cough", "coughing blood", "tb disease"],
+    "en": "Tuberculosis (TB) is an infectious disease caused by bacteria that mainly affects the lungs. It spreads through the air when infected people cough, sneeze or speak. TB is preventable and curable with proper medication taken for 6-9 months. Symptoms include persistent cough, fever, weight loss, and night sweats.",
+    "st": "Tuberculosis (TB) ke lefu la tšoaetso le bakiloeng ke li-bacteria tse amang haholo matšoafo. Le phatlalatsa ka moea ha batho ba nang le tšoaetso ba kohla, ba ts'ohla kapa ba bua. TB e ka thibeloa le ho alafoa ka meriana e nepahetseng e nkuoang ka likhoeli tse 6-9. Matšoao a kenyelletsa ho kuhla ho tsitsitseng, feberu, timelo ea boima, le ho lla mantsiboea."
+  },
+  "fever": {
+    "tags": ["fever", "temperature", "feberu", "high temperature", "body heat"],
+    "en": "Fever is a temporary increase in body temperature, often due to an illness. It's a sign that the body is fighting infection. Normal body temperature is around 37°C (98.6°F). Fever over 38°C (100.4°F) in adults or 37.5°C (99.5°F) in children may indicate infection needing medical attention.",
+    "st": "Feberu ke phahamiso ea nakoana ea mocheso oa 'mele, hangata e bakiloeng ke lefu. Ke sesupo sa hore 'mele o loana le tšoaetso. Mocheso o tloaelehileng oa 'mele o ka bang 37°C. Feberu e phahameng ho feta 38°C ho batho ba baholo kapa 37.5°C ho bana e ka bontša tšoaetso e hlokang tlhokomelo ea bophelo."
+  },
+  "dehydration": {
+    "tags": ["dehydration", "lack of water", "vomiting", "diarrhea", "fluid loss"],
+    "en": "Dehydration occurs when the body loses more fluids than it takes in, disrupting normal functions. Causes include diarrhea, vomiting, excessive sweating, and inadequate fluid intake. Symptoms include thirst, dry mouth, fatigue, dizziness, reduced urine output, and in severe cases, confusion and rapid heartbeat.",
+    "st": "Dehydration e etsahala ha 'mele o lahleheloa ke metsi ho feta kamoo o kenang, o sitisa mesebetsi e tloaelehileng. Mabaka a kenyelletsa diarrhea, ho hatella, ho lla ha matla, le ho kenella ha metsi a lekaneng. Matšoao a kenyelletsa lenyora, molomo o omile, mokhathala, ho heha, ho fokotseha ha moroto, le maemong a matla, phoso le pelo e potlako."
+  },
+  "arvs": {
+    "tags": ["arvs", "antiretroviral drugs", "hiv medication", "art drugs"],
+    "en": "ARVs (Antiretroviral drugs) are medications used to treat HIV infection. They work by preventing the virus from replicating in the body. Common ARV classes include NRTIs, NNRTIs, PIs, and INSTIs. Examples: Tenofovir, Lamivudine, Dolutegravir, Efavirenz, Lopinavir, Ritonavir.",
+    "st": "Li-ARV (Meriana ea Antiretroviral) ke meriana e sebelisetsoang ho phekola tšoaetso ea HIV. Li sebetsa ka ho thibela vaerase ho ikatisa 'meleng. Likarolo tse tloaelehileng tsa ARV li kenyelletsa li-NRTI, li-NNRTI, li-PI, le li-INSTI. Mehlala: Tenofovir, Lamivudine, Dolutegravir, Efavirenz, Lopinavir, Ritonavir."
+  },
+  "immunization": {
+    "tags": ["immunization", "vaccination", "vaccines", "ente", "child vaccines"],
+    "en": "Immunization is the process of making a person immune to an infectious disease, typically by administering a vaccine. Vaccines stimulate the body's immune system to recognize and fight specific diseases without causing the disease itself. Immunization protects against diseases like measles, polio, tetanus, and hepatitis.",
+    "st": "Ento ke tshebetso ea ho etsa hore motho a se ke a tšoa tšoa lefu la tšoaetso, hangata ka ho fana ka ente. Li-ente li khothalletsa sesole sa 'mele ho tseba le ho loana le malwetse a itseng ntle le ho baka lefu ka bo-lona. Ento e sireletsa khahlanong le malwetse a kang masese, polio, tetanus, le hepatitis."
+  }
+}
